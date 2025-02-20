@@ -77,8 +77,61 @@
             - arrivare all'uscita del supermercato
         - ripercorrere lo stesso percorso fatto per arrivare al supermercato al contrario
                 
+        
             
-            
-            
+# Scansionare un documento su più fogli fronte-retro
+
+## Soluzione
+
+- riordinare i fogli
+    - prendere tutti i fogli dall'ufficio
+        - PER OGNI cassetto
+            - prelevare tutti i fogli
+    - dividere i fogli in vari sezioni
+    - trovare l'ordine di ogni sezione
+    - disporre i fogli in ordine crescente della propria sezione
+- scannerizzare i fogli
+    - prendere il telefono
+    - aprire l'app di scanner
+    - creare una cartella rinominata documenti
+    - PER OGNI sezione
+        - creare una cartella di riferimento sul telefono
+        - prendere tutti i fogli della sezione
+        - PER OGNI foglio
+            - SE il foglio è fronte retro
+                - scanerrizare con il telefono prima la parte di avanti
+                - scannerizzare con il telefono la parte di dietro
+            - ALTRIMENTI
+                - scannerizzare foglio con il telefono dal lato dove c'è la documentazione
+            - aggiungere foglio nella cartella di destinazione
+        - inserire la cartella di riferimento alla sezione nella cartella documenti
+    - chiudere l'app di scanner
+- condividere le cartelle al computer
+    - collegare il telefono al computer
+        - accendere il pc
+        - SE il telefono è un'iphone fino al 15
+            - prendere un cavo usb-c Lightning
+            - collegare il lato lightning al telefono
+            - collegare il lato usb-c al pc
+            - accettare la condivisione file dal pc
+        - ALTRIMENTI se il telefono è android o un' iphone dal 16 in poi
+            - prendere un cavo usb-c
+            - collegare un lato al telefono
+            - collegare un lato al pc
+            - accettare la condivisione file dal pc
+    - accedere ai dati del telefono dal computer
+        - aprire il finder
+        - trovare il dispositivo collegato
+        - aprire il percorso file
+    - prelevare la cartella documenti
+    - spostarla sul desktop del pc
+- spegnere pc
+- spegnere telefono
+    
+
+        
+
+        
+
 
 
