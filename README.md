@@ -1,7 +1,7 @@
 # Fare la spesa seguendo una lista
 
 ## Soluzione
-
+-
     - uscire di casa
         - vestirsi
             - aprire l'armadio
